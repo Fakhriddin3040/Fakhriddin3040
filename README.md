@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠️ Tech Stack:
+## 🛠️ Main Tech Stack:
 - **Programming Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 - **DevOps Tools:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 - **Databases:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
@@ -22,9 +22,11 @@
 ---
 
 ## 📊 GitHub Stats:
-![Fakhriddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fakhriddin3040&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fakhriddin3040&layout=compact&theme=radical)
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fakhriddin3040&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fakhriddin3040&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 ---
 
 ## 🌟 Fun Facts:
@@ -40,11 +42,10 @@
 ---
 
 ## 📬 Contact Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/yourprofile)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-
 ---
 
 ## 🌐 Featured Projects:
