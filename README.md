@@ -15,7 +15,7 @@
 ---
 
 ## 🛠️ Main Tech Stack:
-- **Programming Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+- **Programming Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 - **DevOps Tools:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 - **Databases:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
@@ -41,13 +41,13 @@
 
 ---
 
-## 📬 Contact Me:
+## 📬 Need my help or something else? Here you can get me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fakhriddin-berdiev-0540ab292/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/berdievf__/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/fahriddin3040)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](fahriddin3040@gmail.com)
 ---
 
-## 🌐 Featured Projects:
+<!-- ## 🌐 Featured Projects:
 - [Project Name](https://github.com/Fakhriddin3040/project-name) - A brief description of your project.
-- [Another Cool Project](https://github.com/Fakhriddin3040/another-project) - Another brief description.
+- [Another Cool Project](https://github.com/Fakhriddin3040/another-project) - Another brief description. -->
