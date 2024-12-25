@@ -23,10 +23,12 @@
 
 ## 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fakhriddin3040&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fakhriddin3040&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fakhriddin3040&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fakhriddin3040&show_icons=true&theme=radical)
+
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Fakhriddin3040&theme=radical)
+
 ---
 
 ## 🌟 Fun Facts:
@@ -47,7 +49,3 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/fahriddin3040)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](fahriddin3040@gmail.com)
 ---
-
-<!-- ## 🌐 Featured Projects:
-- [Project Name](https://github.com/Fakhriddin3040/project-name) - A brief description of your project.
-- [Another Cool Project](https://github.com/Fakhriddin3040/another-project) - Another brief description. -->
