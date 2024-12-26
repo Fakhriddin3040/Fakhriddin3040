@@ -29,7 +29,7 @@
 
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Fakhriddin3040&theme=radical)
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fakhriddin3040&theme=radical)
+![WakaTime Stats from July 2024](https://github-readme-stats.vercel.app/api/wakatime?username=Fakhriddin3040&theme=radical)
 
 ---
 
