@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey! 👋</h1>
-  <h3>87 101 108 99 111 109 101 32 109 121 32 98 114 97 122 97 (ASCII)</h3>
+  <h3>87 101 108 99 111 109 101 32 109 121 32 98 114 97 122 97</h3>
   <img src="https://raw.githubusercontent.com/Fakhriddin3040/Fakhriddin3040/main/print_hello.gif" alt="Header" />
 </div>
 
